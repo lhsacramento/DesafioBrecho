@@ -7,7 +7,8 @@ export const GlobalStyles = createGlobalStyle`
         box-sizing: border-box;
     }
 
-    body{
+    body, label, input{
         background-color: white;
+        font-family: 'Baloo 2', sans-serif;
     }
 `;
